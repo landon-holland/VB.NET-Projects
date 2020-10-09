@@ -1,0 +1,12 @@
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\bin\Debug\Scrabble.xml
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.vbprojResolveAssemblyReference.cache
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.frmScrabble.resources
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.Resources.resources
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.vbproj.GenerateResource.Cache
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.xml
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
+D:\CP2\VB.NET Project Files\Scrabble\Scrabble\obj\Debug\Scrabble.frmLeaderboard.resources

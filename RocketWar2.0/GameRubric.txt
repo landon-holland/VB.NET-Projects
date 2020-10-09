@@ -1,0 +1,13 @@
+---B---
++Structure and functionality (top ten)
+-Motion
+-Collision
+-User interface
+-Score
+
+---A---
+-Better game
+-Better motions
+-Better collision
+-Better user interface
+-Graphics

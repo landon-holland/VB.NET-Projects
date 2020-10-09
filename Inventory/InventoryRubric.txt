@@ -1,0 +1,17 @@
+---B---
++3 combo boxes
++3 radio button groups
++8 check boxes
++14 pieces of data into string
++String array
++Save and retrieve
++String to 14 pieces of data
+
+---A---
++1 more combo box
++1 more radio group
++4 more check boxes
+-Graphics
+-Change
++Delete
++12.5 (save and open dialogue)

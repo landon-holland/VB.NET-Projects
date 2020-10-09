@@ -1,0 +1,16 @@
+---B---
++Bag of tiles
++Functionality
++Scrabble-like game
++Hand of 7 tiles
++Create
++Check
+	+Binary search
++Score
+
+---A---
++Blanks
++Scrabble-like scoring
++Replacement
++Player
++Leaderboard

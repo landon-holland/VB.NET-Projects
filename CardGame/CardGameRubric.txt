@@ -1,0 +1,23 @@
+---B---
++Dealer (CPU)
+	+First card down
+	+Second card up
++Player (User)
+	+Both cards up
+	+Stand or hit
++Hand total
++Bet (Currency)
++Score (Currency)
++Face cards = 10
++Ace = 11
+
+---A---
++Ace 1 or 11 (Automatic)
+-Gimmicks
+	+5 Card Charlie
+	+Double down
+	-Split
+-Top ten
++Save and retrieve players
+-Functionality
+-Animation

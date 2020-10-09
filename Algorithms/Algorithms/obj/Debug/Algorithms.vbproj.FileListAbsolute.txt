@@ -1,0 +1,11 @@
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\bin\Debug\Algorithms.xml
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.vbprojResolveAssemblyReference.cache
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.frmAlgorithms.resources
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.Resources.resources
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.vbproj.GenerateResource.Cache
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.xml
+D:\CP2\VB.NET Project Files\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

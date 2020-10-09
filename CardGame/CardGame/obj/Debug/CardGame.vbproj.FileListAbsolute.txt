@@ -1,0 +1,12 @@
+D:\CP2\VB.NET Project Files\CardGame\CardGame\bin\Debug\CardGame.exe.config
+D:\CP2\VB.NET Project Files\CardGame\CardGame\bin\Debug\CardGame.exe
+D:\CP2\VB.NET Project Files\CardGame\CardGame\bin\Debug\CardGame.pdb
+D:\CP2\VB.NET Project Files\CardGame\CardGame\bin\Debug\CardGame.xml
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.CardGameForm.resources
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.Resources.resources
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.vbproj.GenerateResource.Cache
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.exe
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.xml
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.pdb
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.vbproj.CoreCompileInputs.cache
+D:\CP2\VB.NET Project Files\CardGame\CardGame\obj\Debug\CardGame.vbprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+---B---
++Recommend book with data using Method B (Andrew - 228: Hatchet and Maus: A Survivor's Tale)
++Read 2 txt files
++Data strucutres
+	+Book
+	+Booklist
+	+Reader
+	+Readerlist
+
+---A---
++Recommend with:
+	+Method A
+	+Method C
++Media
+-Other Method
+-Change
+-Add
+-Delete

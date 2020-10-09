@@ -1,0 +1,11 @@
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\bin\Debug\IntroLabs1.exe.config
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.vbprojResolveAssemblyReference.cache
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.Resources.resources
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.StudentInfo.resources
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.vbproj.GenerateResource.Cache
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.xml
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\bin\Debug\IntroLabs1.exe
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\bin\Debug\IntroLabs1.pdb
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\bin\Debug\IntroLabs1.xml
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.exe
+D:\CP2\VB.NET Project Files\IntroLabs1\IntroLabs1\obj\Debug\IntroLabs1.pdb

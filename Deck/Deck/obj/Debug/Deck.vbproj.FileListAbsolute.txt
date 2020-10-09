@@ -1,0 +1,12 @@
+D:\CP2\VB.NET Project Files\Deck\Deck\bin\Debug\Deck.exe.config
+D:\CP2\VB.NET Project Files\Deck\Deck\bin\Debug\Deck.exe
+D:\CP2\VB.NET Project Files\Deck\Deck\bin\Debug\Deck.pdb
+D:\CP2\VB.NET Project Files\Deck\Deck\bin\Debug\Deck.xml
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.DeckForm.resources
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.Resources.resources
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.vbproj.GenerateResource.Cache
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.exe
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.xml
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.pdb
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.vbprojAssemblyReference.cache
+D:\CP2\VB.NET Project Files\Deck\Deck\obj\Debug\Deck.vbproj.CoreCompileInputs.cache
